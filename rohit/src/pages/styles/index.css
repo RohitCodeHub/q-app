@@ -1,0 +1,20 @@
+.tableUser {
+    width: 80%;
+    height: 100vh;
+  margin-top: 100px;
+}
+.Search {
+    width: 80%;
+    height: 80px;     
+    margin-top: 50px;
+    display: flex ;
+    justify-content: space-around;
+    align-items: center;
+}
+.Search input {
+    width: 60%;
+    height: 50px;
+}
+.Search button {
+    height: 50px;
+}

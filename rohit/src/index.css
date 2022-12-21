@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dark-theme {
+    --main-color:#5f99be;
+    --para-clr:#fff;
+    --btn-text-clr:#fff;
+    --bgr-clr:#111b20;
+}
+.light-theme {
+    --main-color:#5f99be;
+    --para-clr:#333;
+    --btn-bg-clr:#111b20;
+    --btn-text-clr:#fff;
+    --bgr-clr:#fff;
+}
